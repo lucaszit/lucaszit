@@ -3,8 +3,8 @@
 ```
 Lucas Pereira
 
-Buscando novos conhecimentos no mundo de desenvolvimento em geral. Estudando JavaScript e desenvolvendo alguns projetos
-pessoais para estudo e por diversão também. 
+Buscando novos conhecimentos no mundo do desenvolvimento web. Estudando JavaScript e desenvolvendo projetos
+pessoais para estudo e por lazer. 
 
 ```
 - Estudando no momento: 

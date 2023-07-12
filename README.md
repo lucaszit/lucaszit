@@ -3,9 +3,9 @@
 ```
 Lucas Pereira
 
-Buscando novos conhecimentos no mundo do desenvolvimento e explorando o mundo do desenvolvimento em Python.
+Buscando novos conhecimentos e explorando o mundo do desenvolvimento em Python.
 
-Seeking new knowledge in the world of development and exploring the world of Python development.
+Seeking new knowledge and exploring the world of Python development.
 ```
 - Estudando no momento / Studying at the moment: 
 
